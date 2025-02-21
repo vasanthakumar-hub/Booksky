@@ -57,8 +57,6 @@ cpp
 Copy
 Edit
 http://127.0.0.1:5000
-📸 Screenshots
-(Add some screenshots of your application to make the README more engaging.)
 
 🤝 Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request with enhancements or bug fixes.
