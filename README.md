@@ -12,10 +12,9 @@ Booksky is a web-based application designed for book enthusiasts to explore, man
 Frontend: HTML, CSS, JavaScript
 Backend: Flask (Python)
 Database: SQL (SQLite/MySQL/PostgreSQL)
+
 📂 Project Structure
-php
-Copy
-Edit
+
 Booksky/
 │── static/             # Contains CSS, JavaScript, and images  
 │── templates/          # HTML templates for rendering views  
@@ -23,39 +22,30 @@ Booksky/
 │── requirements.txt    # Dependencies for the project  
 │── README.md           # Project documentation  
 │── database.db         # Database file (if using SQLite)  
-🏗️ Installation
-Clone the repository
 
-bash
-Copy
-Edit
+🏗️ Installation
+
+1.Clone the repository
+
 git clone https://github.com/vasanthakumar-hub/Booksky.git
 cd Booksky
-Set up a virtual environment (Optional but recommended)
 
-bash
-Copy
-Edit
+2.Set up a virtual environment (Optional but recommended)
+
 python -m venv venv
 source venv/bin/activate  # On macOS/Linux
 venv\Scripts\activate  # On Windows
-Install dependencies
 
-bash
-Copy
-Edit
+3.Install dependencies
+
 pip install -r requirements.txt
-Run the application
 
-bash
-Copy
-Edit
+4.Run the application
+
 python app.py
-Open in browser
 
-cpp
-Copy
-Edit
+5.Open in browser
+
 http://127.0.0.1:5000
 
 🤝 Contributing
